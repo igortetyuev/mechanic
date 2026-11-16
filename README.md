@@ -98,6 +98,7 @@ src/rateest.{h,cpp}  — статистика интервалов, автоде
 src/main.cpp         — цикл, отчёты, команды Serial
 test/test_dsp/       — нативные тесты на синтетике
 .devin/skills/       — скилл: методика замера в разных положениях
+skilldescription.md  — пример сессии анализа часов (DG2813)
 ```
 
 ### Ограничения
@@ -218,6 +219,7 @@ src/rateest.{h,cpp}  — interval statistics, autodetect, beat error
 src/main.cpp         — main loop, reports, serial commands
 test/test_dsp/       — host tests on synthetic data
 .devin/skills/       — skill: multi-position measurement workflow
+skilldescription.md  — worked example: watch analysis session (RU)
 ```
 
 ### Limitations
